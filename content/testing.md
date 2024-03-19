@@ -5,10 +5,10 @@ tags:
   - 
 ---
 
-> [!info] Title
+> [!info]- Title
 > 
 > This is a callout!
+> ![[magic_forest..png]]
 
 This needs to be updated.
 
-![[magic_forest..png]]
