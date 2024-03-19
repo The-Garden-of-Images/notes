@@ -4,9 +4,9 @@ draft: false
 tags:
 ---
 
-> [!info]+ Title
-> 
-> Collection 078
-> ![[magic_forest.png]]
+** Tittle **
+Collection 123 
+
+![[magic_forest.png]]
 
 Favorite

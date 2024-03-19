@@ -4,9 +4,9 @@ draft: false
 tags:
 ---
 
-> [!info]+ Title
-> 
-> Collection 078
-> ![[rocketman.png]]
+** Tittle **
+Collection 123 
+
+![[2.jpg]]
 
 Favorite

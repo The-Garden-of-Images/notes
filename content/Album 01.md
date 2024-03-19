@@ -5,26 +5,19 @@ tags:
   - 
 ---
 
-![[card 1]]
-![[card 2]]
-![[card 3]]
 
----
 
-> [!info]+ Title
+> [!info]+ Exp
 > 
-> Collection 078
-> ![[card 1]]
-> ![[card 2]]
-> ![[card 3]]
-
----
-
-> [!info]+ Title
+> **Title**
 > 
-> Collection 078
->> ![[card 1]]
->> ![[card 2]]
->> ![[card 3]]
-
----
+>> [!info]- card 1
+>>> ![[card 1]]
+>
+>
+>> [!info]- card 2
+>>> ![[card 2]]
+>
+>
+>> [!info]- card 3
+>>> ![[card 3]]
