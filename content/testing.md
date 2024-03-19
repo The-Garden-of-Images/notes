@@ -10,3 +10,5 @@ tags:
 > This is a callout!
 
 This needs to be updated.
+
+![[magic_forest..png]]
