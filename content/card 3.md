@@ -7,6 +7,6 @@ tags:
 
 Collection 123 
 
-![[2.png]]
+![[2.jpg]]
 
 Favorite
