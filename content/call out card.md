@@ -1,8 +1,7 @@
 ---
-title: "album 01"
+title: call out card
 draft: false
 tags:
-  - 
 ---
 
 > [!info]- Title
@@ -10,5 +9,4 @@ tags:
 > This is a callout!
 > ![[magic_forest..png]]
 
-This needs to be updated.
-
+card 1
