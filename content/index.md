@@ -1,5 +1,5 @@
 ---
-title: Home
+title: index
 ---
 
 # The Garden of Images
