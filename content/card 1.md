@@ -7,6 +7,6 @@ tags:
 > [!info]+ Title
 > 
 > Collection 078
-> ![[magic_forest..png]]
+> ![[magic_forest.png]]
 
 Favorite

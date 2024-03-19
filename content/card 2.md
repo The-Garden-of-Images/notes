@@ -4,8 +4,9 @@ draft: false
 tags:
 ---
 
-
-Collection 123 
-![[content/rocketman.png]]
+> [!info]+ Title
+> 
+> Collection 078
+> ![[rocketman.png]]
 
 Favorite
