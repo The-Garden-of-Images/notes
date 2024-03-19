@@ -28,10 +28,3 @@ tags:
 >> ![[card 3]]
 
 ---
-
-
-
-> [!info]+ Title
-> 
-> Collection 078
-> ![[magic_forest..png]]
