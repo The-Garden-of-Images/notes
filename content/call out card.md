@@ -9,4 +9,8 @@ tags:
 > This is a callout!
 > ![[magic_forest..png]]
 
-card 1
+- Tittle
+	- Sub title
+		- Paragraph
+		- ![[2.jpg]]
+
