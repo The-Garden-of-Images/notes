@@ -8,6 +8,7 @@ tags:
 
 
 > [!info]+ Exp
+>> ![[card 1]]
 > 
 > **Title**
 > 

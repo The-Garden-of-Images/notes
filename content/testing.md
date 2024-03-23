@@ -1,8 +1,7 @@
 ---
-title: "album 01"
+title: testing
 draft: false
 tags:
-  - 
 ---
 
 > [!info]- Title

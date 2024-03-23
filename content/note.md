@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: note
 draft: false
 tags:
   - example-tag

@@ -5,6 +5,7 @@ tags:
 ---
 
 ** Tittle **
+
 Collection 123 
 
 ![[magic_forest.png]]
